@@ -1,4 +1,4 @@
-from distutils.filelist import findall
+from re import findall
 import re
 
 from regex import my_regex
